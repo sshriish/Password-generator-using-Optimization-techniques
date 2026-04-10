@@ -1,5 +1,7 @@
 # Password-generator-using-Optimization-techniques
 Secure Password Generation using Optimization Algorithms
+
+
 📌 Overview
 This project explores the use of metaheuristic optimization algorithms to generate strong and secure passwords. Instead of relying on naive random generation, we model password creation as an optimization problem, where the objective is to maximize password strength.
 
@@ -10,6 +12,7 @@ Genetic Algorithm (GA)
 Ant Colony Optimization (ACO)
 
 Particle Swarm Optimization (PSO)
+
 
 🎯 Objective
 The goal is to:
